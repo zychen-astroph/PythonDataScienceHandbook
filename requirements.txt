@@ -1,15 +1,17 @@
-numpy==1.15.0
-pandas==0.23.1
-scipy==0.17.1
-scikit-learn==0.19.2
-scikit-image==0.14.0
-pillow==5.1.0
-matplotlib==2.2.2
-seaborn==0.8.1
-jupyter
-notebook
-line_profiler
-memory_profiler
-numexpr
-pandas-datareader
-netcdf4
+name: tmp
+dependencies:
+  - numpy==1.15.0
+  - pandas==0.23.1
+  - scipy==0.17.1
+  - scikit-learn==0.19.2
+  - scikit-image==0.14.0
+  - pillow==5.1.0
+  - matplotlib==2.2.2
+  - seaborn==0.8.1
+  - jupyter
+  - notebook
+  - line_profiler
+  - memory_profiler
+  - numexpr
+  - pandas-datareader
+  - netcdf4
